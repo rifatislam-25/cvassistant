@@ -5,9 +5,8 @@ An interactive chatbot designed to answer questions about your CV using LangChai
 ✔ Conversational AI – Uses Groq API (Llama 3.1-8B) for generating human-like responses.
 ✔ FAISS-based Retrieval – Converts CV text into vector embeddings for fast and efficient search.
 ✔ Memory – Maintains context-awareness by remembering previous conversations.
-✔ Streamlit UI – Provides an intuitive chat interface for user interaction.
-✔ Secure API Handling – Loads GROQ_API_KEY securely from environment variables or Streamlit secrets.
-✔ Deployment Ready – Can be hosted on Streamlit & GitHub for easy access.
+✔ Secure API Handling – Loads GROQ_API_KEY securely from environment variables.
+
 
 📌 How It Works
 1️⃣ Text Preprocessing:
